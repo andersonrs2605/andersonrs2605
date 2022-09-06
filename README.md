@@ -10,3 +10,6 @@ README.md
 
 
 ## About me:
+
+I am agile and proactive, I love to be challenged. I always try to do the best in any service, be it any level.
+I always try to look at the end customer's side, where the product will be delivered.
