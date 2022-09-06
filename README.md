@@ -5,7 +5,6 @@ README.md
 
 # Hi, I'm Anderson!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/peguimasid)](https://github.com/peguimasid)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andersonr2605)](https://github.com/andersonrs2605)
 [![Linkedin Badge]https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/anderson-rodrigues-34a7721a1)](https://www.linkedin.com/in/anderson-rodrigues-34a7721a1/)
 
